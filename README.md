@@ -1,14 +1,13 @@
 # shatabnaApp
 <img src="https://github.com/MohamedAmrAboalazm/shatabnaApp/assets/38703536/18501a6a-b192-42fa-bd48-686a9114a343" width="200" height="400" />
 <img src="https://github.com/MohamedAmrAboalazm/shatabnaApp/assets/38703536/9f1ac075-5765-4049-be73-d25a5ae8ffec" width="200" height="400" />
-
-![Screenshot_20230820-112307](https://github.com/MohamedAmrAboalazm/shatabnaApp/assets/38703536/f8ebc04d-2e8f-4789-a86b-43aaf7b79bce)
-![Screenshot_20230820-112357](https://github.com/MohamedAmrAboalazm/shatabnaApp/assets/38703536/5845c386-231d-4933-8e94-2f26a1a1655d)
-![Screenshot_20230820-112413](https://github.com/MohamedAmrAboalazm/shatabnaApp/assets/38703536/3f104c23-33fe-4358-b58c-5d96e81341a8)
-![Screenshot_20230820-112423](https://github.com/MohamedAmrAboalazm/shatabnaApp/assets/38703536/2b624ee3-bb9a-4bf6-9ec1-05fb416454dd)
-![Screenshot_20230820-112431](https://github.com/MohamedAmrAboalazm/shatabnaApp/assets/38703536/3f5154de-3431-4c3f-93c1-e78735e14688)
-![Screenshot_20230820-112445](https://github.com/MohamedAmrAboalazm/shatabnaApp/assets/38703536/dd82913c-cc71-49c8-a3ee-e9e764157d6c)
-![Screenshot_20230820-112450](https://github.com/MohamedAmrAboalazm/shatabnaApp/assets/38703536/b781a253-63b3-488a-84ae-9f0778599d6a)
+<img src="https://github.com/MohamedAmrAboalazm/shatabnaApp/assets/38703536/f8ebc04d-2e8f-4789-a86b-43aaf7b79bce" width="200" height="400" />
+<img src="https://github.com/MohamedAmrAboalazm/shatabnaApp/assets/38703536/5845c386-231d-4933-8e94-2f26a1a1655d" width="200" height="400" />
+<img src="https://github.com/MohamedAmrAboalazm/shatabnaApp/assets/38703536/3f104c23-33fe-4358-b58c-5d96e81341a8" width="200" height="400" />
+<img src="https://github.com/MohamedAmrAboalazm/shatabnaApp/assets/38703536/2b624ee3-bb9a-4bf6-9ec1-05fb416454dd" width="200" height="400" />
+<img src="https://github.com/MohamedAmrAboalazm/shatabnaApp/assets/38703536/3f5154de-3431-4c3f-93c1-e78735e14688" width="200" height="400" />
+<img src="https://github.com/MohamedAmrAboalazm/shatabnaApp/assets/38703536/dd82913c-cc71-49c8-a3ee-e9e764157d6c" width="200" height="400" />
+<img src="https://github.com/MohamedAmrAboalazm/shatabnaApp/assets/38703536/b781a253-63b3-488a-84ae-9f0778599d6a" width="200" height="400" />
 ![Screenshot_20230820-111921](https://github.com/MohamedAmrAboalazm/shatabnaApp/assets/38703536/36cd408c-63b9-439d-b57b-11d683bbfb43)
 ![Screenshot_20230820-111933](https://github.com/MohamedAmrAboalazm/shatabnaApp/assets/38703536/fb7a5f25-28ef-4090-ad2a-75c6df9463f1)
 ![Screenshot_20230820-111941](https://github.com/MohamedAmrAboalazm/shatabnaApp/assets/38703536/ed43bb55-ba8a-4b8b-8a7a-7d11d92ce21b)
